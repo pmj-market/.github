@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-pmj 预测市场后端
-pmj_web 预测市场前端
+* [pmj](https://github.com/pmj-market/pmj) 预测市场后端
+* [pmj_web](https://github.com/pmj-market/pmj_web) 预测市场前端
 
 TODO
+
 pmj_doc 存放开发需求文档 *待定
 <!--
 
